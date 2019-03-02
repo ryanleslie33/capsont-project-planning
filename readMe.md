@@ -27,7 +27,10 @@ _Have a functional user-orientated UI_
 ## _Is there anything else you’d like your instructor to know?_ 
 * _I had a couple other ideas but felt this was more completable with such a short amount of time and I wasn't sure if I wanted to use C# or not I have no clue on how to use it with React and would not even need to for this project for the most part other than using it just for practitioner purposes, especially since its been so long since I have used that language._
 
-* _Application that helps guide a user on what exercises to do what exercises there for specific regions of there body. _
+* _Application that helps guide a user on what exercises to do what exercises there for specific regions of there body._
+
+## Component Tree
+![image](https://user-images.githubusercontent.com/43968782/53675153-906ec080-3c48-11e9-84f9-8f68ca187fda.png)
 
 ## Setup/Installation Requirements
 
